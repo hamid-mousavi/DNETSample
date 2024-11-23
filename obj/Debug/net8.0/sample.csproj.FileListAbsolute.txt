@@ -28,3 +28,10 @@ c:\Users\iR\Desktop\PR\.Net\sample\obj\Debug\net8.0\refint\sample.dll
 c:\Users\iR\Desktop\PR\.Net\sample\obj\Debug\net8.0\sample.pdb
 c:\Users\iR\Desktop\PR\.Net\sample\obj\Debug\net8.0\sample.genruntimeconfig.cache
 c:\Users\iR\Desktop\PR\.Net\sample\obj\Debug\net8.0\ref\sample.dll
+c:\Users\iR\Desktop\PR\.Net\sample\bin\Debug\net8.0\publish\web.config
+c:\Users\iR\Desktop\PR\.Net\sample\bin\Debug\net8.0\publish\appsettings.Development.json
+c:\Users\iR\Desktop\PR\.Net\sample\bin\Debug\net8.0\publish\appsettings.json
+c:\Users\iR\Desktop\PR\.Net\sample\bin\Debug\net8.0\publish\sample.deps.json
+c:\Users\iR\Desktop\PR\.Net\sample\bin\Debug\net8.0\publish\sample.runtimeconfig.json
+c:\Users\iR\Desktop\PR\.Net\sample\bin\Debug\net8.0\vercel.json
+c:\Users\iR\Desktop\PR\.Net\sample\obj\Debug\net8.0\sample.sourcelink.json
