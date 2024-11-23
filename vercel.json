@@ -1,14 +1,14 @@
 {
-    "builds": [
-      {
-        "src": "*.csproj",
-        "use": "@vercel/static"
-      }
-    ],
-    "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "/publish/wwwroot/$1"
-      }
-    ]
-  }
+  "builds": [
+    {
+      "src": "publish/**/*",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/publish/wwwroot/$1"
+    }
+  ]
+}
