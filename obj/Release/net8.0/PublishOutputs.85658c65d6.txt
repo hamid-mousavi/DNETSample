@@ -1,6 +1,7 @@
 C:\Users\iR\Desktop\PR\.Net\sample\publish\sample.exe
 C:\Users\iR\Desktop\PR\.Net\sample\publish\appsettings.Development.json
 C:\Users\iR\Desktop\PR\.Net\sample\publish\appsettings.json
+C:\Users\iR\Desktop\PR\.Net\sample\publish\vercel.json
 C:\Users\iR\Desktop\PR\.Net\sample\publish\sample.dll
 C:\Users\iR\Desktop\PR\.Net\sample\publish\sample.deps.json
 C:\Users\iR\Desktop\PR\.Net\sample\publish\sample.runtimeconfig.json
