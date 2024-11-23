@@ -1,10 +1,5 @@
 {
-  "builds": [
-    {
-      "src": "publish/**/*",
-      "use": "@vercel/static"
-    }
-  ],
+
   "routes": [
     {
       "src": "/(.*)",
